@@ -1,0 +1,31 @@
+_repo: Memory_69733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturgeon, Theodore
+    aliases:
+    - Waldo, Edward Hamilton
+    - Sturgeon, Theodore Hamilton
+    birthdate: 1918
+    deathdate: 1985
+    gutenberg_agent_id: '55048'
+    url: http://www.gutenberg.org/2009/agents/55048
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Sturgeon
+description: ''
+gutenberg_issued: '2023-01-07'
+identifiers:
+  gutenberg: '69733'
+language: en
+pgterms:marc905: 20220515111156sturgeon
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: 'United States: Standard Magazines, Inc.,1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memory
+url: http://www.gutenberg.org/ebooks/69733
